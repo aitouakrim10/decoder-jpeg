@@ -1,0 +1,1 @@
+Fichier dont le seul rôle est de permettre l'ajout du répertoire qui le contient au dépôt git (on ne peut pas ajouter de répertoire vide à un dépôt git). Supprimez-le quand vous n'en aurez plus besoin !
